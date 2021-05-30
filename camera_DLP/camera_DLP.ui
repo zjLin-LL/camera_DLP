@@ -1,0 +1,28 @@
+<UI version="4.0" >
+ <class>camera_DLPClass</class>
+ <widget class="QMainWindow" name="camera_DLPClass" >
+  <property name="objectName" >
+   <string notr="true">camera_DLPClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>camera_DLP</string>
+  </property>  <widget class="QMenuBar" name="menuBar" />
+  <widget class="QToolBar" name="mainToolBar" />
+  <widget class="QWidget" name="centralWidget" />
+  <widget class="QStatusBar" name="statusBar" />
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="camera_DLP.qrc"/>
+ </resources>
+ <connections/>
+</UI>
